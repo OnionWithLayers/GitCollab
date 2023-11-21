@@ -15,4 +15,9 @@ public class hamburigigi {
     public void setToHamOrNotToHam(boolean toHamOrNotToHam) {
         this.toHamOrNotToHam = toHamOrNotToHam;
     }
+
+    public void bullorc() {
+        System.out.println("butter croissant monkey balls");
+    }
+
 }
